@@ -1,0 +1,62 @@
+body {
+    background-image: url(imageedit_1_6011029903.png);
+    opacity: 2;
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding : 20px;
+  }
+  
+h1 {
+    font-family :  'Courier New', Courier, monospace;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+h2 {
+    font-size: 20px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+.menu {
+    width: 80%;
+    background-color:aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+.flavor {
+    color :darkslateblue
+}
+.kkk p {
+    text-align : none;
+}
